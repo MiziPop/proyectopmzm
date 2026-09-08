@@ -1,15 +1,15 @@
 .menuHorizontal {
 text-align: center;
-color:rgb(43, 226, 80)
+color:rgb(226, 43, 43)
 }
 .titulo{
 text-align: center;
-color:rgb(255, 89, 0)
+color:rgb(0, 191, 255)
 }
 .tablaPrincipal{
     margin: auto;
     margin-top: 200px;
-    color:rgb(98, 97, 97);
+    color:rgb(203, 231, 46);
 }
 .header{
 margin-left: 100px;
